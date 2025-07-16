@@ -1,0 +1,2 @@
+const canva = document.querySelector("canvas")
+const ctx = canva.getContext('2d')
